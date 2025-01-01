@@ -1,4 +1,4 @@
-### PyConUS 2024 & EuroPython 2024 Speaker 🎤
+ ### PyConUS 2024 & EuroPython 2024 Speaker 🎤
 
 I recently had the privilege of delivering a talk titled ["Enhancing Decorators with Type Annotations: Techniques and Best Practices"](https://us.pycon.org/2024/schedule/presentation/42/) at PyConUS 2024 and [EuroPython 2024](https://ep2024.europython.eu/session/enhancing-decorators-with-type-annotations-techniques-and-best-practices). In this talk, I shared insights on leveraging type annotations to enrich decorators effectively.
 
